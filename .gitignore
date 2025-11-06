@@ -3,3 +3,4 @@ datos/
 db/
 target/
 dist/
+node_modules/
