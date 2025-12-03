@@ -15,6 +15,7 @@ public class Saludadores {
     
 
     public Integer getId() {
+        System.out.println();
         return id;
     }
 
